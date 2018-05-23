@@ -1,0 +1,6 @@
+ofxCv
+ofxFileDialog
+ofxGui
+ofxOpenCv
+ofxParagraph
+ofxSmartFont
